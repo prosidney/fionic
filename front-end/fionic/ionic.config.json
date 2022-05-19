@@ -1,0 +1,7 @@
+{
+  "name": "fionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
